@@ -1,0 +1,8 @@
+{
+  "name": "ufabc-wiki-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abacchi00/ufabc-wiki-frontend.git",
+  "author": "abacchi00 <andre.rossini.bacchi@gmail.com>",
+  "license": "MIT"
+}
